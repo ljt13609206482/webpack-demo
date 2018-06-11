@@ -1,5 +1,5 @@
-require('style-loader!css-loader!./style/style.css')
-require('style-loader!css-loader!./style/font.css')
+require('./style/style.css')
+require('./style/font.css')
 
 
 
